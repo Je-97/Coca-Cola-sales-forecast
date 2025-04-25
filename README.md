@@ -1,4 +1,4 @@
-Coca-Cola Sales & Profit Forecast Dashboard
+## Coca-Cola Sales & Profit Forecast Dashboard ##
 
 This project combines Power BI visualizations with a machine learning regression model in Python to forecast and analyze Coca-Cola's sales and operating profit.
 
