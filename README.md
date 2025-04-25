@@ -59,4 +59,4 @@ Performance Summary Table by Brand
 
 🔹 Dashboard Preview
 
-![Demo](/images/dashboard_demo)
+![Demo](images/dashboard_demo.gif)
