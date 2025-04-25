@@ -59,4 +59,4 @@ Performance Summary Table by Brand
 
 🔹 Dashboard Preview
 
-🎥 [Watch Demo Video](https://drive.google.com/file/d/1rV3JNNiKENrBM8V4cLksUrDafHdSh4KU/view?usp=sharing)
+![Demo](./images/dashboard_demo.gif)
